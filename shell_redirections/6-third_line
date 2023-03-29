@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+head --lines=3 iacta | tail --lines=1
