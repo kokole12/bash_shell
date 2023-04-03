@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+tail -1 iacat >> iacat

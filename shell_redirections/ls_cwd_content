@@ -1,0 +1,14 @@
+total 80
+-rwxr-xr-x   1 kokoleismail  staff   38 Apr  3 21:09 "\*\'Best
+drwxr-xr-x  13 kokoleismail  staff  416 Apr  3 21:13 .
+drwxr-xr-x   9 kokoleismail  staff  288 Mar 29 15:30 ..
+-rwxr-xr-x   1 kokoleismail  staff   39 Mar 29 15:31 0-hello_world
+-rwxr-xr-x   1 kokoleismail  staff   36 Mar 29 15:34 1-confused_smily
+-rwxr-xr-x   1 kokoleismail  staff   36 Mar 29 15:36 2-hello_file
+-rwxr-xr-x   1 kokoleismail  staff   47 Mar 29 15:43 3-twofiles
+-rwxr-xr-x   1 kokoleismail  staff   37 Mar 29 15:49 4-lastlines
+-rwxr-xr-x   1 kokoleismail  staff   37 Mar 29 15:52 5-firstlines
+-rwxr-xr-x   1 kokoleismail  staff   44 Mar 29 16:04 6-third_line
+-rwxr-xr-x   1 kokoleismail  staff   84 Mar 29 16:06 7-file
+-rwxr-xr-x   1 kokoleismail  staff   44 Apr  3 21:12 8-cwd_state
+-rw-r--r--   1 kokoleismail  staff    0 Apr  3 21:13 ls_cwd_content
